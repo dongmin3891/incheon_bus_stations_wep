@@ -1,0 +1,54 @@
+
+.refresh_button {
+  position: fixed;
+  bottom : 50px;
+  right: 0px;
+  /* -ms-transform: rotate(90deg); IE 9 */
+  /* -webkit-transform: rotate(90deg); Chrome, Safari, Opera */
+  /* transform: rotate(90deg); */
+  width: 80px;
+  height: 100px;
+  background-color: darksalmon;
+  font-size: 20px;
+}
+.scroll_button2 {
+  position: fixed;
+  bottom: 160px;
+  right : 0px;
+  /* -ms-transform: rotate(90deg); IE 9 */
+  /* -webkit-transform: rotate(90deg); Chrome, Safari, Opera */
+  /* transform: rotate(90deg); */
+  width: 80px;
+  height: 230px;
+  background-color: darksalmon;
+  font-size: 20px;
+}
+.scroll_button {
+  position: fixed;
+  bottom: 400px;
+  right : 0px;
+  /* -ms-transform: rotate(90deg); IE 9 */
+  /* -webkit-transform: rotate(90deg); Chrome, Safari, Opera */
+  /* transform: rotate(90deg); */
+  width: 80px;
+  height: 230px;
+  background-color: darksalmon;
+  font-size: 20px;
+}
+.header {
+  display: flex;
+}
+
+.title {
+  text-align: center;
+}
+.bus_station_box {
+  margin-left: 30px;
+}
+
+.going_home {
+  font-size: 15px;
+}
+.going_company {
+  font-size: 15px;
+}
